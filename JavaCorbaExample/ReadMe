@@ -1,0 +1,15 @@
+Commands to be Executed:
+
+
+To start ORBD: orbd -ORBInitialPort 1050 -ORBInitialHost localhost
+
+To start server:
+java HelloServer -ORBInitialPort 1050 -ORBInitialHost localhost
+
+
+To start client: java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost
+
+
+Youtube Link:
+https://www.youtube.com/watch?v=BpefT4giUoU
+
